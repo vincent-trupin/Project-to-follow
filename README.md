@@ -1,5 +1,8 @@
 # Project-to-follow
 
+### trading
+https://github.com/JerBouma/FinanceToolkit
+
 ### dev
 screenshot-to-code
 https://github.com/abi/screenshot-to-code
