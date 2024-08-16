@@ -79,6 +79,8 @@ MuseTalk: Real-Time High Quality Lip Synchronization with Latent Space Inpaintin
 https://github.com/TMElyralab/MuseTalk
 
 ### Automation
+
+
 LaVague is an open-source Large Action Model framework to develop AI Web Agents.
 Our web agents take an objective, such as "Print installation steps for Hugging Face's Diffusers library" and performs the required actions to achieve this goal
 https://github.com/lavague-ai/LaVague
@@ -105,6 +107,8 @@ GPT Researcher is an autonomous agent designed for comprehensive online research
 https://github.com/assafelovic/gpt-researcher
 
 ### multi agents
+
+https://github.com/InternLM/MindSearch
 
 MemGPT allows you to build LLM agents with long term memory & custom tools
 https://github.com/cpacker/MemGPT
