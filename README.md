@@ -110,6 +110,8 @@ https://github.com/assafelovic/gpt-researcher
 
 https://github.com/InternLM/MindSearch
 
+https://github.com/InternLM
+
 MemGPT allows you to build LLM agents with long term memory & custom tools
 https://github.com/cpacker/MemGPT
 
